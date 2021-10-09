@@ -1,1 +1,1 @@
-# co-op-bank-node.js-rest-api
+Implementing Co-op bank API using Node.js
